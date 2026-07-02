@@ -2,6 +2,10 @@
 
 An AI-powered web application that analyzes news articles and predicts whether they are **Real** or **Fake** using a custom **BiLSTM-based Deep Learning model** with an **Attention mechanism**. The platform supports both **URL-based news extraction** and **manual article input**, providing confidence scores, AI-assisted explanations, and a modern responsive dashboard.
 
+
+https://github.com/user-attachments/assets/e11f5751-66b1-4a48-8266-f3f8e825776a
+
+
 ---
 
 # ⭐ Highlights
